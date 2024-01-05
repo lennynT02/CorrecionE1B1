@@ -1,1 +1,3 @@
 # CorrecionE1B1
+## Empleando programación orientada a objetos impíementar una aplicación que muestre el uso de herencia en 3 niveles. La clase debe tener todos los aspectos mencionados en clase, setters, getters, constructor, etc. El main debe tener la creación de objetos y su almacenamiento en una estructura como una lista o array. No es necesario un menú. Indicar en un diagrama UML tomando en cuenta el tema asignado. 
+## COMIDA TIPICA
